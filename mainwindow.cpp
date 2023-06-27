@@ -53,4 +53,4 @@ void MainWindow::on_listWidget_itemClicked(QListWidgetItem *item)
         ui->Propiedades->addItem("Fecha de creación: " + creationTime.toString());
     }
 }
-
+//a
